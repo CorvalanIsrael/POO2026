@@ -1,3 +1,5 @@
+package TP4.Ejercicio1;
+
 public class Auto extends Motor {
     private String marca;
     private String modelo;
